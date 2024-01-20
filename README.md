@@ -1,12 +1,12 @@
 # Her Ideology
 
-Language：English, [简体中文](../README_zh-CN.md)
+Language：English, [简体中文](./README_zh-CN.md)
 
 This is a backend for configuring her ideology. You can choose your favorite backend and configure it with unique ideology.
 
 The hardware requirements vary depending on the backend you choose. On the contrary, you can choose a suitable backend based on your hardware, just to meet the communication protocol.
 
-For specific details, please refer to **_"[Demo](../Demo)"_** And **_"[Documentation](../Documentation)"_** Folder.
+For specific details, please refer to **_"[Demo](./Demo)"_** And **_"[Documentation](./Documentation)"_** Folder.
 
 ## Version [1.0.1]
 
@@ -22,6 +22,6 @@ For specific details, please refer to **_"[Demo](../Demo)"_** And **_"[Documenta
 ## Using
 
 1. Deploy the environment according to your chosen backend.
-2. According to **_"[Documentation](../Documentation)"_** Install using the "**_Installation_**" method in, and then configure according to "_**Usage**_".
+2. According to **_"[Documentation](./Documentation)"_** Install using the "**_Installation_**" method in, and then configure according to "_**Usage**_".
 3. Testing.
 4. Deployment.

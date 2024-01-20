@@ -1,6 +1,6 @@
 # Changelog
 
-Language：English, [简体中文](../CHANGELOG_zh-CN.md)
+Language：English, [简体中文](./CHANGELOG_zh-CN.md)
 
 This is a backend for configuring her ideology. You can choose your favorite backend and configure it with unique ideology.
 

@@ -1,6 +1,6 @@
 # 关于她的意识
 
-语言：简体中文, [English](../Documentation.md)
+语言：简体中文, [English](./Documentation.md)
 
 这是一个配置她的意识的后端。你可以自行选择自己喜欢的后端，并为她配置独特的意识。
 
@@ -8,23 +8,23 @@
 
 建议使用 [闻达](https://github.com/wenda-LLM/wenda) 的开源项目，更方便支持上述模型，而且本项目的样例也是基于此项目进行的。
 
-具体见 **_"[Demo](../Demo)"_** 和 **_"[Documentation](../Documentation)"_** 文件夹。
+具体见 **_"[Demo](./Demo)"_** 和 **_"[Documentation](./Documentation)"_** 文件夹。
 
 # 安装
 
 ## 依赖
 
-- [color_logger](../Ext)
-- [chat_record](../Ext/chat_record.py)
-- [api_key_authenticator](../Ext/api_key_authenticator.py)
+- [color_logger](./Ext)
+- [chat_record](./Ext/chat_record.py)
+- [api_key_authenticator](./Ext/api_key_authenticator.py)
 - [python](https://www.python.org/) (具体版本根据你选择的后端决定)
 
 # 使用
 
 ### 使用闻达项目+一个Demo代码
 1. 参考Demo修改闻达项目原代码。Demo中代码文件名对应闻达项目中代码的文件名，具体修改地方在Demo代码中有注释说明。
-2. 将依赖模块文件夹[Ext](../Ext)下的模块放置在闻达项目的根目录下（与wenda.py同级）。
-3. 安装额外依赖库[requirements-extra](../requirements/requirements-extra.txt)。 
+2. 将依赖模块文件夹[Ext](./Ext)下的模块放置在闻达项目的根目录下（与wenda.py同级）。
+3. 安装额外依赖库[requirements-extra](./requirements/requirements-extra.txt)。 
 4. 根据闻达项目要求配置好项目后，运行。
 
 ### 使用其它项目+一个Demo代码
@@ -86,7 +86,7 @@ Words数据：
 
 ### 服务端返回数据
 
-方式：具体见 **_"[Demo](../Demo)"_** 
+方式：具体见 **_"[Demo](./Demo)"_** 
 
 格式：生成内容的文本, UTF-8
 

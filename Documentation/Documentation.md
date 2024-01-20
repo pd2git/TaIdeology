@@ -1,6 +1,6 @@
 # About her ideology
 
-Language：English, [简体中文](../Documentation_zh-CN.md)
+Language：English, [简体中文](./Documentation_zh-CN.md)
 
 This is a backend for configuring her ideology. You can choose your favorite backend and configure it with unique ideology.
 
@@ -8,23 +8,23 @@ The project has great freedom to choose any large language model backend, known 
 
 Suggest using [Wenda](https://github.com/wenda-LLM/wenda) The open-source project is more convenient to support the above model, and the sample of this project is also based on this project.
 
-Specifically, please refer to **_"[Demo](../Demo)"_** And **_"[Documentation](../Documentation)"_** Folder.
+Specifically, please refer to **_"[Demo](./Demo)"_** And **_"[Documentation](./Documentation)"_** Folder.
 
 # Installation
 
 ## Dependency
 
-- [color_logger](../Ext)
-- [chat_record](../Ext/chat_record.py)
-- [api_key_authenticator](../Ext/api_key_authenticator.py)
+- [color_logger](./Ext)
+- [chat_record](./Ext/chat_record.py)
+- [api_key_authenticator](./Ext/api_key_authenticator.py)
 - [python](https://www.python.org/) (The specific version depends on the backend you choose)
 
 # Usage
 
 ### Use Wenda project + a Demo code
 1. Refer to the Demo to modify the original code of the Wenda project. The code file name in the Demo corresponds to the file name of the code in the Wenda project. The specific modifications are explained in the Demo code.
-2. Place the modules under the dependent module folder [Ext](../Ext) in the root directory of the Wenda project (at the same level as wenda.py).
-3. Install additional dependency libraries [requirements-extra](../requirements/requirements-extra.txt).
+2. Place the modules under the dependent module folder [Ext](./Ext) in the root directory of the Wenda project (at the same level as wenda.py).
+3. Install additional dependency libraries [requirements-extra](./requirements/requirements-extra.txt).
 4. After configuring the project according to the Wenda project requirements, run it.
 
 ### Use other projects + a Demo code
@@ -87,7 +87,7 @@ Words data：
 
 ### The data returned by the server
 
-Method: Please refer to for details **_"[Demo](../Demo)"_**
+Method: Please refer to for details **_"[Demo](./Demo)"_**
 
 Format: Text for generating content, UTF-8
 
