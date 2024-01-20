@@ -1,0 +1,10 @@
+# Explanation: Only list the modified parts, starting with # [AAModified Start] and ending with # [AAModified End].
+# 说明：仅列出修改的部分，以# [AAModified-Start]打头，# [AAModified-End]结束。
+
+# Omitting the previous paragraph...
+# 原有前段省略...
+# [AAModified-Start]
+# 角色名
+role:
+   name: "Unnamed role name"
+# [AAModified-End]
