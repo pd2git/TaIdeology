@@ -1,0 +1,9 @@
+# [AAModified-Start]
+# 角色配置
+# Setup roles
+role:
+   me:
+      nick_name: "Me"
+   ai:
+      nick_name: "XiaoYu"
+# [AAModified-End]
